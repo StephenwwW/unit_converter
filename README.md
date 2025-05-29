@@ -14,7 +14,7 @@
 - 支援 Bytes 欄位，換算更完整
 
 ## 介面截圖
-> ![介面截圖](screenshot.png)
+![單位轉換預覽圖](unit_converter/images/screenshot.png)  
 
 ## 執行方式
 1. 安裝依賴：`pip install -r requirements.txt`
