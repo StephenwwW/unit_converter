@@ -1,0 +1,3 @@
+# 主要依賴
+# tkinter 為 Python 標準庫，無需額外安裝
+python_version >= 3.7 
